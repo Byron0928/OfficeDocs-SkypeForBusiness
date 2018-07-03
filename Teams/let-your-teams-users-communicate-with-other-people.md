@@ -36,11 +36,11 @@ Follow these steps:
 
 ![teams-logo-30x30.png](media/teams-logo-30x30.png) **Using the Microsoft Teams and Skype for Business Admin Center**
 
-   1. In the left navigation, go to **Org-wide settings** > **External access**. 
+   1. In the left navigation, go to **Organization** > **External Communications->External access**. 
 
-   2. At the top of the **External access** page, click **External access** to **On**. 
+   2. In the **External access** pane, choose **On except for blocked domain** or **On only for allowed domain** in the drop-down box. 
 
-   3. Add the other organization's domain to the allowed list by clicking **Add domain**. In the **Add a domain** pane, put in the domain name click **Allowed** and then **Done**.
+   3. Add the other organization's domain to the allowed list by clicking **Add domain**. In the **Blocked or Allowed domains** pane, put in the domain name click **Allowed** and then **Done**.
 
    4. Click **Save**. 
 
@@ -69,7 +69,7 @@ Have the admin in that organization do these steps:
   
 2. In the **Skype for Business admin center**, choose **Organization** > **External communications**.
     
-3. To set up communication with a specific business or with users in another domain, in the drop-down box, choose **On only for allowed domains**.
+3. In the ** External Access** Pane, to set up communication with a specific business or with users in another domain, in the drop-down box, choose **On only for allowed domains**.
     
     OR, if you want to enable communication with everyone else in the world who has open Skype for Business policies, choose **On except for blocked domains**. This is the default setting.
     
